@@ -1,1 +1,1 @@
-Initila Commit for WEB222 Group Project
+Initial Commit for WEB222 Group Project
